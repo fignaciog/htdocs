@@ -19,14 +19,37 @@
     <h1>Intranet Ignacio Fortuna</h1>
     </div>
 </div>
-<div>
-    <ul>
-        <li><a href="Mobile">Diseño Phone</a></li>
-        <li><a href="Desktop">Diseño Desktop</a></li>
-        <li><a href="Escuela">Projecto Escuela</a></li>
-        <li><a href="php">Repaso Php</a></li>
-        <li><a href="www.BackEnd.com">Repaso Back-End</a></li>
-    </ul>
+<div class="row">
+    <div class="col">
+        <p>
+            Detalles del proyecto
+        </p>
+        <a href="Mobile">Diseño Phone</a>
+    </div>
+    <div class="col">
+        <p>
+            Detalles del proyecto
+        </p>
+        <a href="Desktop">Diseño Desktop</a>
+    </div>
+    <div class="col">
+        <p>
+            Detalles del proyecto
+        </p>
+        <a href="Escuela">Projecto Escuela</a>
+    </div>
+    <div class="col">
+        <p>
+            Detalles del proyecto
+        </p>
+        <a href="php">Repaso Php</a>
+    </div>
+    <div class="col">
+        <p>
+            Detalles del proyecto
+        </p>
+        <a href="www.BackEnd.com">Repaso Back-End</a>
+    </div>
 </div>
 </div>
 </body>
