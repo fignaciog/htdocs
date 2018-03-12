@@ -1,0 +1,168 @@
+* {
+	margin:  0;
+	padding: 0;
+}
+#header {
+	height: 200px;
+	border: 0px solid black;
+	background-image: url('../img/ig3.png');
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 10%;
+	background-color: black;
+}
+#headerPag {
+	height: 50px;
+	border: 0px solid black;
+	background-image: url('../img/ig3.png');
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 3%;
+	background-color: black;
+}
+#headerPag #InfoUser {
+	float: right;
+	color:  #fff;
+	margin: 30px 10px 0px 0px;
+	background: red;
+}
+#body {
+	border: 0px solid black;
+	
+}
+#body #bodyIntro {
+	width: 300px;
+	border: 1px solid black;
+	margin: 10px 0px 10px 20px;
+	padding: 10px 10px 10px 20px;
+}
+/*-------------------Paginas------------------------------*/
+#bodyPag {
+	overflow: hidden;
+}
+#menu {
+	background-color: black;
+	overflow: hidden;
+}
+
+#home {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 0px solid black;
+	background-image: url('../img/web/HomeOff.png');
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#home:hover {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 0px solid black;
+	background-image: url('../img/web/HomeOn.png');
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#user {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 0px solid black;
+	background-image: url('../img/web/UserOff.png');
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#user:hover {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 0px solid black;
+	background-image: url('../img/web/UserOn.png');
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#salir {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 0px solid black;
+	background-image: url('../img/web/SalirOff.png');
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#salir:hover {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 0px solid black;
+	background-image: url('../img/web/SalirOn.png');
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#bodyPag #bodyPagLeft {
+	border: 0px solid black;
+	width: 650px;
+	background-color: white;
+	float: left;
+	overflow: hidden;
+}
+#bodyPag #bodyPagLeft .PagDiv {
+	width: 600px;
+	height: 150px;
+	border: 1px solid #000;
+	margin: 10px 0px 10px 10px;
+	padding: 10px 10px 10px 20px;
+	color: #000;
+	
+}
+
+#bodyPag #bodyPagRight {
+	float: right;
+	overflow: hidden;
+}
+
+
+#bodyPag #bodyPagRight .PagDiv {
+	width: 600px;
+	height: 50px;
+	border: 1px solid #000;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 20px;
+	
+}
+/*----------------PaginaUsers--------------------------*/
+
+body #bodyPag #bodyPagUser{
+	border: 1px solid black;
+	width: 600px;
+	height: 600px;
+	margin: 10px, 10px 10px 10px;
+	padding: 10px, 10px 10px 10px;
+}
+
+body #bodyPag #bodyPagUser #BPUhead {
+	width: 550px;
+	height: 200px;
+}
+
+body #bodyPag #bodyPagUser #BPUbody {
+	width: 550px;
+	height: 200px;
+	color: red;
+}
+
+/*------------------------------------------------------*/
+#footer {
+
+}

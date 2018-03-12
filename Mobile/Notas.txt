@@ -1,0 +1,14 @@
+<table>
+		<tr>
+			<th>Fecha</th>
+			<th>Monto</th>
+			<th>Gasto</th>
+			<th>Reembolso</th>
+		</tr>
+		<tr>
+			<td></td>
+			<td>RD$ <?php echo $_SESSION["getMonto"];?></td>
+			<td>RD$ <?php echo $_SESSION["getUso"];?></td>
+			<td>RD$ <?php echo $_SESSION["getDv"];?></td>
+		</tr>
+	</table>

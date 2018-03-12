@@ -1,0 +1,89 @@
+<!--<ul class="txt1">
+				<li>
+				<h2>Hematologia </h2>
+				</li>
+				<li class="txt2">
+				<label for="">Hematies</label>
+				</li>
+
+				<input type="text" name="hme">
+
+				<li class="txt2">
+				<label for="">Hematocrito</label>
+				</li>
+
+				<input type="text" name="hmo">
+
+				<li class="txt2">
+				<label for="">Hemoglobina</label>
+				</li>
+
+				<input type="text" name="hmg">
+
+				<li class="txt2">
+				<label for="">VCM</label>
+				</li>
+
+				<input type="text" name="vcm">
+
+				<li class="txt2">
+				<label for="">HCM</label>
+				</li>
+
+				<input type="text" name="hcm">
+
+				<li class="txt2">
+				<label for="">CHCM</label>
+				</li>
+
+				<input type="text" name="chc">
+
+				<li class="txt2">
+				<label for="">Leucocitos</label>
+				</li>
+				<input type="text" name="leu">
+				<li class="txt2">
+				<label for="">Neutrofilos</label>
+				</li>
+				<input type="text" name="neu">
+				<li class="txt2">
+				<label for="">Linfocitos</label>
+				</li>
+				<input type="text" name="lin">
+				<li class="txt2">
+				<label for="">Esinofilos</label>
+				</li>
+				<input type="text" name="esi">
+				<li class="txt2">
+				<label for="">Monocitos</label>
+				</li>
+				<input type="text" name="mon">
+				<li class="txt2">
+				<label for="">Juveniles</label>
+				</li>
+				<input type="text" name="juv">
+				<li class="txt2">
+				<label for="">Reticulocitos</label>
+				</li>
+				<input type="text" name="ret">
+				<li class="txt2">
+				<label for="">C. Esinofilos</label>
+				</li>
+				<input type="text" name="ces">
+				<li class="txt2">
+				<label for="">Plaquetas</label>
+				</li>
+				<input type="text" name="pla">
+				<li class="txt2">
+				<label for="">Eritrosed</label>
+				</li>
+				<input type="text" name="eri">
+				<li class="txt2">
+				<label for="">Falcemia</label>
+				</li>
+				<input type="text" name="fal">
+				<li class="txt2">
+				<label for="">T. Sangria</label>
+				</li>
+				<input type="text" name="tsa">
+				</ul>-->

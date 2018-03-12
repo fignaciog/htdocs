@@ -1,0 +1,125 @@
+* {
+	margin:  0;
+	padding: 0;
+}
+#header {
+	height: 200px;
+	border: 0px solid black;
+	background-image: url('../../img/ig3.png');
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 10%;
+	background-color: black;
+}
+#headerPag {
+	height: 50px;
+	border: 0px solid black;
+	background-image: url('../../../img/ig3.png');
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 3%;
+	background-color: black;
+}
+#headerPag #InfoUser {
+	float: right;
+	color:  #fff;
+	margin: 30px 10px 0px 0px;
+}
+/*-------------------Paginas------------------------------*/
+#bodyPag {
+	
+}
+
+#menu {
+	background-color: black;
+	overflow: hidden;
+}
+
+#home {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 0px solid black;
+	background-image: url('../img/web/HomeOff.png');
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#home:hover {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 0px solid black;
+	background-image: url('../img/web/HomeOn.png');
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#user {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 0px solid black;
+	background-image: url('../img/web/UserOff.png');
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#user:hover {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 0px solid black;
+	background-image: url('../img/web/UserOn.png');
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#salir {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 0px solid black;
+	background-image: url('../img/web/SalirOff.png');
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#salir:hover {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 0px solid black;
+	background-image: url('../img/web/SalirOn.png');
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+body #bodyPag #bodyPagUser{
+	width: 600px;
+	float: left;
+	margin: 10px 10px 10px 10px;
+	
+}
+
+body #bodyPag #bodyPagUser #BPUhead {
+	width: 550px;
+	height: 200px;
+	background-color: black;
+	color: white;
+}
+
+body #bodyPag #bodyPagUser #BPUbody {
+	width: 550px;
+	height: 200px;
+	background-color: red;
+}
+
+/*------------------------------------------------------*/
+#footer {
+
+}

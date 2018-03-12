@@ -1,0 +1,74 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+h1 {
+	padding: 30px;
+}
+h2 {
+	font-family: arial;
+}
+h2 > .vs {
+	color: green;
+}
+
+form > h3 {
+	padding-bottom: 10px;
+	color: blue;	
+	font-family: arial;
+}
+
+form {
+	margin-left: 20px;	
+}
+table {
+	width: 90%;
+	border: 1px solid silver;
+	border-collapse: collapse;
+}
+tr, th, td {
+	border: 1px solid silver;
+}
+ul {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	background-color: yellow;
+	font-size: 20px;
+	font-family: arial;
+	color: black;
+}
+
+#mobilSize {
+	width: 300px;
+	height: 520px;
+	border: 3px solid black;	
+}
+
+#intro {
+	width: 250px;
+	height: 60px;
+	font-size: 38px;
+}
+
+#setIntroButton {
+	width: 250px;
+	height: 80px;
+	background-color: silver;	
+	margin-top: 10px;
+	font-size: 16px;
+}
+
+.aButton {
+	background-color: silver;
+	width: 250px;
+	height: 80px;
+	text-align: center;
+}
+.aP {
+	padding: 28.5px;
+	
+}
