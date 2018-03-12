@@ -19,6 +19,7 @@
     <h1>Intranet Ignacio Fortuna</h1>
     </div>
 </div>
+<div>
     <ul>
         <li><a href="Mobile">Diseño Phone</a></li>
         <li><a href="Desktop">Diseño Desktop</a></li>
@@ -26,6 +27,7 @@
         <li><a href="php">Repaso Php</a></li>
         <li><a href="www.BackEnd.com">Repaso Back-End</a></li>
     </ul>
+</div>
 </div>
 </body>
 </html>
