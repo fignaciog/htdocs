@@ -17,71 +17,71 @@
 
 <div class="container-fluid">
     <div class="row">
-        
-        <div class="card col-sm col-md col-lg col-xl">
-            <img src="img\img_phone.png" class="card-img-top" alt="">
-            <div class="card-body">
-                <h5 class="card-title">Diseño Movil</h5>
-                <p class="card-text">
-                    Detalles del proyecto
-                </p>
-                <a href="Mobile" class="btn btn-light">
+             <div class="col border border-primary ">
+                <img src="img\img_phone.png" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5 class="card-title">Diseño Movil</h5>
+                    <p class="card-text">
+                        Detalles del proyecto
+                    </p>
+                    <a href="Mobile" class="btn btn-light">
+                        Entrar
+                    </a>
+                </div>
+            </div>
+
+            <div class="col border border-primary">
+                <img src="img\img_desktop.png" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5 class="card-title">Diseño Escritorio</h5>
+                    <p class="card-text">
+                        Detalles del proyecto
+                    </p>
+                    <a href="Desktop" class="btn btn-light">
                     Entrar
-                </a>
+                    </a>
+                </div>
             </div>
-        </div>
 
-        <div class="card col-sm col-md col-lg col-xl">
-            <img src="img\img_desktop.png" class="card-img-top" alt="">
-            <div class="card-body">
-                <h5 class="card-title">Diseño Escritorio</h5>
-                <p class="card-text">
-                    Detalles del proyecto
-                </p>
-                <a href="Desktop" class="btn btn-light">
-                Entrar
-                </a>
+            <div class="col border border-primary">
+                <img src="img\img_Sistema_R.png" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5 class="card-title">Sistema Registro</h5>
+                    <p class="card-text">
+                        Sistema de registro estudiantil.
+                    </p>
+                    <a href="Escuela" class="btn btn-light">
+                    Entrar
+                    </a>
+                </div>
             </div>
-        </div>
 
-        <div class="card col-sm col-md col-lg col-xl">
-            <img src="img\img_Sistema_R.png" class="card-img-top" alt="">
-            <div class="card-body">
-                <h5 class="card-title">Sistema Registro</h5>
-                <p class="card-text">
-                    Sistema de registro estudiantil.
-                </p>
-                <a href="Escuela" class="btn btn-light">
-                Entrar
-                </a>
+            <div class="col border border-primary">
+                <img src="img\img_php.png" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5 class="card-title">Learning Php</h5>
+                    <p class="card-text">
+                        Repaso de Php
+                    </p>
+                    <a href="php" class="btn btn-light">
+                    Entrar
+                    </a>
+                </div>
             </div>
-        </div>
 
-        <div class="card col-sm col-md col-lg col-xl">
-            <img src="img\img_php.png" class="card-img-top" alt="">
-            <div class="card-body">
-                <h5 class="card-title">Learning Php</h5>
-                <p class="card-text">
-                    Repaso de Php
-                </p>
-                <a href="php" class="btn btn-light">
-                Entrar
-                </a>
-            </div>
-        </div>
-
-        <div class="card col-sm col-md col-lg col-xl">
-            <img src="img\img_mvc.png" class="card-img-top" alt="">
-            <div class="card-body">
-                <h5 class="card-title">Learning MVC</h5>
-                <p class="card-text">
-                    Aprendiendo el Modelo, Vista, Controlador
-                </p>
-                <a href="www.BackEnd.com" class="btn btn-light">
-                Entrar
-                </a>
-            </div>
-        </div>
+            <div class="col border border-primary">
+                <img src="img\img_mvc.png" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5 class="card-title">Learning MVC</h5>
+                    <p class="card-text">
+                        Aprendiendo el Modelo, Vista, Controlador
+                    </p>
+                    <a href="www.BackEnd.com" class="btn btn-light">
+                    Entrar
+                    </a>
+                </div>
+            </div>       
+       
     </div>
     <footer class="blockquote-footer">
 Intranet_Ignacio Fortuna
