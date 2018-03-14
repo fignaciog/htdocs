@@ -19,7 +19,7 @@
     <div class="row">
         
         <div class="card col-sm col-md col-lg col-xl">
-            <img src="img\img_ejemplo.png" class="card-img-top" alt="">
+            <img src="img\img_phone.png" class="card-img-top" alt="">
             <div class="card-body">
                 <h5 class="card-title">Diseño Movil</h5>
                 <p class="card-text">
@@ -32,7 +32,7 @@
         </div>
 
         <div class="card col-sm col-md col-lg col-xl">
-            <img src="img\img_ejemplo.png" class="card-img-top" alt="">
+            <img src="img\img_desktop.png" class="card-img-top" alt="">
             <div class="card-body">
                 <h5 class="card-title">Diseño Escritorio</h5>
                 <p class="card-text">
@@ -45,9 +45,9 @@
         </div>
 
         <div class="card col-sm col-md col-lg col-xl">
-            <img src="img\img_ejemplo.png" class="card-img-top" alt="">
+            <img src="img\img_Sistema_R.png" class="card-img-top" alt="">
             <div class="card-body">
-                <h5 class="card-title">Sistema Escuela</h5>
+                <h5 class="card-title">Sistema Registro</h5>
                 <p class="card-text">
                     Sistema de registro estudiantil.
                 </p>
@@ -58,7 +58,7 @@
         </div>
 
         <div class="card col-sm col-md col-lg col-xl">
-            <img src="img\img_ejemplo.png" class="card-img-top" alt="">
+            <img src="img\img_php.png" class="card-img-top" alt="">
             <div class="card-body">
                 <h5 class="card-title">Learning Php</h5>
                 <p class="card-text">
@@ -71,7 +71,7 @@
         </div>
 
         <div class="card col-sm col-md col-lg col-xl">
-            <img src="img\img_ejemplo.png" class="card-img-top" alt="">
+            <img src="img\img_mvc.png" class="card-img-top" alt="">
             <div class="card-body">
                 <h5 class="card-title">Learning MVC</h5>
                 <p class="card-text">
