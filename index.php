@@ -7,15 +7,6 @@
     <link rel="stylesheet" href="css\bootstrap.min.css">    
     <title>Intranet | Inicio</title>
 
-    <style>
-    
-    .imgEje {
-        background-size: 50%;
-        background-repeat: no-repeat;
-        background-position: center;
-    }
-    
-    </style>
 </head>
 <body>
 
