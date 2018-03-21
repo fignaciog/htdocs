@@ -16,9 +16,8 @@
         </div>
     </div>
 
-<div class="container-fluid">
+<div class="container">
     <div class="row">
-
              <div class="col-sm col-md col-lg col-xl-3 bg-light text-black d-block rounded m-3">
                 <img src="img\img_phone.png" class="card-img-top" alt="">
                 <div class="card-body">
@@ -82,7 +81,20 @@
                     Ver..
                     </a>
                 </div>
-            </div>       
+            </div> 
+
+            <div class="col-sm col-md col-lg col-xl-3 bg-light text-black d-block rounded m-3">
+                <img src="img\img_mvc.png" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5 class="card-title">Evaluation</h5>
+                    <p class="card-text">
+                        Evaluacion de trabajo.
+                    </p>
+                    <a href="Evaluation" class="btn btn-secondary">
+                    Ver..
+                    </a>
+                </div>
+            </div>          
        
     </div>
     <footer class="blockquote-footer">
